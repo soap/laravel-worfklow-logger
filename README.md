@@ -40,6 +40,7 @@ This is the contents of the published config file:
 
 ```php
 return [
+
 ];
 ```
 
@@ -51,10 +52,6 @@ php artisan vendor:publish --tag="workflowlogger-views"
 
 ## Usage
 
-```php
-$workflowLogger = new Soap\WorkflowLogger();
-echo $workflowLogger->echoPhrase('Hello, Soap!');
-```
 
 ## Testing
 
