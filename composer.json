@@ -6,7 +6,7 @@
         "laravel",
         "workflowlogger"
     ],
-    "homepage": "https://github.com/soap/workflowlogger",
+    "homepage": "https://github.com/soap/laravel-workflow-logger",
     "license": "MIT",
     "authors": [
         {
