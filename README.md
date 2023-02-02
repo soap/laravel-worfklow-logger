@@ -1,6 +1,6 @@
 # Logger for laravel-workflow package
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/soap/workflowlogger.svg?style=flat-square)](https://packagist.org/packages/soap/workflowlogger)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/soap/workflow-logger.svg?style=flat-square)](https://packagist.org/packages/soap/workflow-logger)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/soap/laravel-workflow-logger/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/soap/laravel-workflow-logger/actions?query=workflow%3Arun-tests+branch%3Amain)
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/soap/laravel-workflow-logger/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/soap/laravel-workflow-logger/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/soap/laravel-workflow-logger.svg?style=flat-square)](https://packagist.org/packages/soap/laravel-workflow-logger)
