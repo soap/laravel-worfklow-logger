@@ -2,7 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/soap/workflow-logger.svg?style=flat-square)](https://packagist.org/packages/soap/workflow-logger)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/soap/laravel-workflow-logger/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/soap/laravel-workflow-logger/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/soap/laravel-workflow-logger/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/soap/laravel-workflow-logger/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/soap/laravel-workflow-logger/fix-php-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/soap/laravel-workflow-logger/actions?query=workflow%3A"Fix+PHP+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/soap/workflow-logger.svg?style=flat-square)](https://packagist.org/packages/soap/workflow-logger)
 
 Provide logging capability for [zerodahero/laravel-workflow](https://github.com/zerodahero/laravel-workflow) (Symfony based workflow). The package logs who (as eloqunt model) performed what transition on what object (eloquent model). You can visit my [laravel-workflow-demo application](https://github.com/soap/laravel-workflow-demo) to see how to use both packages on laravel application.
