@@ -1,10 +1,12 @@
 {
-    "name": "soap/laravel-workflow-logger",
+    "name": "soap/workflow-logger",
     "description": "Logger for laravel-workflow package",
     "keywords": [
         "soap",
         "laravel",
-        "workflowlogger"
+        "workflow",
+        "logger", 
+        "symfony based workflow"
     ],
     "homepage": "https://github.com/soap/laravel-workflow-logger",
     "license": "MIT",
