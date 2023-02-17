@@ -10,7 +10,11 @@ return new class extends Migration
     {
         Schema::create('workflow_logs_table', function (Blueprint $table) {
             $table->id();
-
+            $table->morphs('actorable');
+            $table->morphs('subjectable');
+            $table->string('workflow_name');
+            $table->text('froms')->comment('from states');
+            $table->text('tos')->comment('to states');
             $table->timestamps();
         });
     }
